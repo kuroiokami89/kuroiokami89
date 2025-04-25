@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-Italy-based junior front-end developer skilled in responsive design and UX/UI. Passionate about crafting user-friendly, visually impactful web experiences.
+Sergio Allushaj (Vantablack) — Graphic designer, UX/UI designer, and front-end developer based in Italy. I focus on creating websites and digital tools that balance simplicity and usability, turning ideas into practical solutions. My work combines design thinking with technical execution to solve problems, improve user interactions, and deliver results that are both effective and visually grounded.
 
 ## 💻 Tech skills :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
