@@ -1,10 +1,10 @@
 
-# Hi, I'm Allushaj Sergio! 👋
+# Hi, I'm Sergio Allushaj (Vantablack) 👋
 
 
 
 ## 🚀 About Me
-Sergio Allushaj (Vantablack) — Full-stack developer specializing in .NET and React/Next.js, with a background in graphic design. 2 years of experience building e-commerce platforms, RESTful APIs, and UI/UX solutions. Focused on performance, SEO, and user experience.
+Full-stack developer specializing in .NET and React/Next.js, with a background in graphic design. I bring 2 years of experience building scalable e-commerce platforms, RESTful APIs, and intuitive UI/UX solutions.
 
 ## 💻 Tech Skills
 
