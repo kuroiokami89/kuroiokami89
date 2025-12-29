@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-Full-stack developer specializing in .NET and React/Next.js, with a background in graphic design. I bring 2 years of experience building scalable e-commerce platforms, RESTful APIs, and intuitive UI/UX solutions.
+Full-stack Web Developer specializing in building responsive applications and scalable solutions. Experienced in frontend and backend development, API integration, and delivering maintainable, user-centered products across diverse projects.
 
 ## 💻 Tech Skills
 
